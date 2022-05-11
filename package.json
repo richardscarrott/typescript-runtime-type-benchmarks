@@ -71,7 +71,7 @@
     "@types/clone": "2.1.1",
     "@types/jest": "27.4.0",
     "@types/node": "16.11.34",
-    "@types/svgo": "2.6.0",
+    "@types/svgo": "2.6.3",
     "@types/yup": "0.29.13",
     "babel-plugin-spectypes": "0.0.45",
     "expect-type": "0.13.0",
